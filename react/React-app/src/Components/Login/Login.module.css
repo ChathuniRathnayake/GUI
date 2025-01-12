@@ -1,0 +1,42 @@
+.formContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 35px;
+  }
+  
+  .inputGroup {
+    width: 100%;
+    margin-bottom: 21px;
+  }
+  
+  .input {
+    width: 100%;
+    border-radius: 15px;
+    min-height: 52px;
+    padding: 17px 10px;
+    border: 1px solid rgba(217, 217, 217, 1);
+    margin-bottom: 21px;
+  }
+  
+  .forgotCredentials {
+    margin: 21px 0;
+  }
+  
+  .forgotLink {
+    color: rgba(58, 156, 43, 1);
+    text-decoration: none;
+  }
+  
+  .divider {
+    width: 100%;
+    text-align: center;
+    color: rgba(150, 150, 150, 1);
+    margin: 21px 0;
+  }
+  
+  @media (max-width: 991px) {
+    .formContainer {
+      padding: 0 20px;
+    }
+  }

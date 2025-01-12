@@ -1,0 +1,81 @@
+.container {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 168px 70px;
+  }
+  
+  .content {
+    width: 100%;
+    max-width: 1220px;
+  }
+  
+  .columns {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .formColumn {
+    width: 39%;
+  }
+  
+  .formWrapper {
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 1);
+    padding: 41px 33px 25px;
+  }
+  
+  .imageColumn {
+    width: 61%;
+    margin-left: 20px;
+  }
+  
+  .image {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 100%;
+  }
+  
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+  
+  @media (max-width: 991px) {
+    .container {
+      padding: 100px 20px;
+    }
+    
+    .content {
+      max-width: 100%;
+    }
+    
+    .columns {
+      flex-direction: column;
+      gap: 0;
+    }
+    
+    .formColumn,
+    .imageColumn {
+      width: 100%;
+      margin-left: 0;
+    }
+    
+    .formWrapper {
+      margin-top: 40px;
+      padding: 0 20px;
+    }
+    
+    .image {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
