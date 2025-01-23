@@ -1,22 +1,22 @@
 import React from "react";
 import { Login } from "./Components/Login/Login";
-import styles from './App.module.css';
+import './LoginPage.css'; // Import the standard CSS file
 
-export const App = () => {
+export const LoginPage = () => {
   return (
-    <div className={styles.container}>
-      <div className={styles.content}>
-        <div className={styles.columns}>
-          <div className={styles.formColumn}>
-            <div className={styles.formWrapper}>
+    <div className="container">
+      <div className="content">
+        <div className="columns">
+          <div className="formColumn">
+            <div className="formWrapper">
               <Login />
             </div>
           </div>
-          <div className={styles.imageColumn}>
+          <div className="imageColumn">
             <img
               src="https://cdn.builder.io/api/v1/image/assets/TEMP/799fd9adc43fe0be473de6cddeb99f5b070765e4b2593555ea59abceaef32819?placeholderIfAbsent=true&apiKey=a758d963065447fbbb07b22e1d316b48"
               alt="Login illustration"
-              className={styles.image}
+              className="image"
               loading="lazy"
             />
           </div>
@@ -26,4 +26,4 @@ export const App = () => {
   );
 };
 
-export default App;
+export default LoginPage;

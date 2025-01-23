@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from '../Button/Button';
-import styles from './SocialLogin.module.css';
+import './SocialLogin.css'; // Import the standard CSS file
 
 export const SocialLogin = () => {
   const socialButtons = [
@@ -9,13 +9,13 @@ export const SocialLogin = () => {
   ];
 
   return (
-    <div className={styles.socialContainer}>
-      <span className={styles.loginText}>Log in using</span>
+    <div className="socialContainer">
+      <span className="loginText">Log in using</span>
       {socialButtons.map((button) => (
         <Button 
           key={button.name}
           variant={button.variant}
-          className={styles.socialButton}
+          className="socialButton"
         >
           {button.name}
         </Button>

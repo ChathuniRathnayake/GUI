@@ -1,10 +1,10 @@
 import React from 'react';
-import styles from './Button.module.css';
+import './Button.css';
 
 export const Button = ({ children, variant = 'primary', className = '', ...props }) => {
   return (
     <button 
-      className={`${styles.button} ${styles[variant]} ${className}`}
+      className={`button ${variant} ${className}`} 
       {...props}
     >
       {children}

@@ -1,0 +1,40 @@
+.formContainer {
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-self: stretch;
+    margin: auto;
+    padding: 76px 68px;
+  }
+  
+  .inputField {
+    align-self: stretch;
+    border-radius: 15px;
+    min-height: 52px;
+    padding: 17px 10px;
+    border: 1px solid rgba(217, 217, 217, 1);
+    margin-bottom: 21px;
+    width: 100%;
+    font: 400 16px Inter, sans-serif;
+  }
+  
+  .submitButton {
+    align-self: stretch;
+    border-radius: 15px;
+    background-color: rgba(58, 156, 43, 1);
+    padding: 10px;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 991px) {
+    .formContainer {
+      max-width: 100%;
+      margin-top: 40px;
+      padding: 0 20px;
+    }
+  }

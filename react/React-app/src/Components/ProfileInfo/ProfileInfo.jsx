@@ -1,12 +1,13 @@
 import React from 'react';
-import styles from './Dashboard.module.css';
+import './ProfileInfo.css'; // Import the standard CSS file
 
 export const ProfileInfo = ({ label, value }) => {
   return (
-    <div className={styles.profileField}>
+    <div className="profileField">
       <div>{label}</div>
-      <div className={styles[`profile${label.replace(/\s+/g, '')}`]}>{value}</div>
+      <div className={`profile${label.replace(/\s+/g, '')}`}>{value}</div>
     </div>
   );
 };
-export default ProfileInfo
+
+export default ProfileInfo;

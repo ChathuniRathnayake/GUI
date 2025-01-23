@@ -1,0 +1,46 @@
+.progressCard {
+    border-radius: 0px;
+    display: flex;
+    max-width: 309px;
+    flex-direction: column;
+  }
+  
+  .cardContainer {
+    border-radius: 12px;
+    background-color: rgba(255, 255, 254, 1);
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 51px 21px 27px;
+  }
+  
+  .courseTitle {
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    font: 400 24px Asul, sans-serif;
+  }
+  
+  .progressBarContainer {
+    border-radius: 20px;
+    background-color: rgba(217, 217, 217, 1);
+    display: flex;
+    margin-top: 28px;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .progressBar {
+    border-radius: 20px;
+    background-color: rgba(58, 156, 43, 1);
+    display: flex;
+    width: 79px;
+    height: 20px;
+  }
+  
+  .progressPercentage {
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    align-self: end;
+    margin-top: 7px;
+    font: 400 24px Asul, sans-serif;
+  }

@@ -1,0 +1,46 @@
+.header {
+    background: #fff;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    padding: 10px 66px;
+    gap: 100px;
+    font: 400 24px Inter, sans-serif;
+  }
+
+  .logo {
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 75px;
+    background: rgba(175, 255, 159, 1);
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: 36px Julee, sans-serif;
+  }
+  
+  .platformTitle {
+    color: rgba(34, 76, 26, 1);
+    font-weight: 700;
+    flex: 1;
+  }
+  
+  .userInfo {
+    display: flex;
+    align-items: left;
+    gap: 14px;
+    color: rgba(58, 156, 43, 1);
+  }
+  
+  .userAvatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .username {
+    font-size: 36px;
+    color:red;
+  }

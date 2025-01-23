@@ -1,14 +1,16 @@
 import React from 'react';
-import styles from './Dashboard.module.css';
+import './ProgressBar.css'; // Import the standard CSS file
 
 export const ProgressBar = ({ progress }) => {
   return (
-    <div className={styles.progressContainer}>
-      <div className={styles.progressBar}>
-        <div className={styles.progressFill} style={{ width: `${progress}px` }} />
+
+    <div className="progressContainer">
+        <div className="progressBar">
+          <div className="progressFill" style={{ width: `${progress}%` }} />
+        </div>
+        <div className="progressText">{progress}%</div>
       </div>
-      <div className={styles.progressText}>{progress}%</div>
-    </div>
   );
 };
+
 export default ProgressBar;
