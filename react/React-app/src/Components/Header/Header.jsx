@@ -1,5 +1,5 @@
 import React from "react";
-
+import './App.css';
 
 function Header() {
   return (
@@ -12,7 +12,7 @@ function Header() {
             alt="User profile"
             className="userAvatar"
           />
-          <span className="userName">Chathuni Rathnayake</span>
+          <span className="username">Chathuni Rathnayake</span>
         </div>
       </header>
   )

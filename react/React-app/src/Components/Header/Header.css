@@ -6,8 +6,9 @@
     padding: 10px 66px;
     gap: 100px;
     font: 400 24px Inter, sans-serif;
+    height: 70px;
   }
-
+  
   .logo {
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 75px;
@@ -39,8 +40,10 @@
     border-radius: 50%;
     object-fit: cover;
   }
-
+  
   .username {
-    font-size: 36px;
-    color:red;
+    font-size: 30px;
+    color: rgba(34, 76, 26, 1);
+    align-self: center;
+  
   }
