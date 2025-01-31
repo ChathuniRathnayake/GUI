@@ -1,0 +1,93 @@
+.all {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgb(238, 255, 226);
+  }
+  
+  .contentContainer {
+    display: flex;
+  
+    height: 100px;
+  }
+  
+  .sideNav {
+    width: 250px; 
+    background-color: white;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    height: 80vh;
+    margin-top: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+  }
+  
+  .enrolledCourses{
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  .title{
+    font-size: 38px;
+    color: rgb(34, 76, 26);
+    margin-top: 150px;
+    display: flex;
+    background-color: rgba(159, 191, 148, 0.437);
+    justify-content: center;
+    z-index: 3;
+    position: relative;
+    top: -25px;
+  }
+  
+  .settingsTitle {
+    font-size: 36px;
+    margin: 20px;
+  
+  }
+  
+  .changeUsername{
+    font-size: 20px;
+    color: black;
+    margin: 20px;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+  
+  }
+  
+  .profilepic {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .alldetails {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .profile-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    height: 130px;
+    margin-right: 190px;
+    background-color: rgb(217, 217, 217);
+  }
+  
+  .profile-item {
+    margin-bottom: 10px;
+  }
+  
+  .profile-label {
+    font-weight: bold;
+    width:200px;
+  }
+  
+  
