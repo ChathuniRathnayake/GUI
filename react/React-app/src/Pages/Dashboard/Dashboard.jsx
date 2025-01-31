@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Components/Header/Header";
 import SideNavigation from "./Components/SideNavigation/SideNavigation";
-import './App.css';
+import './Dashboard.css';
 
 const profileData = [
   { label: "Name:", value: "Chathuni Rathnayake" },
@@ -10,7 +10,7 @@ const profileData = [
 ];
 
 
-export default function App() {
+export default function Dashboard() {
   return (
     <main className="all">
         <Header />

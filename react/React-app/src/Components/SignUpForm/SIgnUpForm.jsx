@@ -1,8 +1,9 @@
 import React from 'react';
 import './SignUpForm.css';
 
-export function SignupForm() {
+export default function SignUpForm() {
   return (
+    
     <form className="formContainer">
       <label htmlFor="name" className="visually-hidden">Name</label>
       <input
@@ -31,7 +32,7 @@ export function SignupForm() {
         required
       />
 
-      <button type="submit" className="submitButton">
+      <button type="submit" className="submitButton" >
         Sign up
       </button>
     </form>
