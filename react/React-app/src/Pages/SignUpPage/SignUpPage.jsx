@@ -2,7 +2,7 @@ import React from 'react';
 import SignupForm from './Components/SignUpForm/SignupForm';
 import './SignUpPage.css';
 
-export default function App() {
+export default function SignUpPage() {
   return (
     <main>
     <div className="pageContainer">

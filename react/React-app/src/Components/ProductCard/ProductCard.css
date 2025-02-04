@@ -1,0 +1,46 @@
+.cardContainer {
+    border-radius: 12px;
+    /*border: 1px solid #ccc;*/
+    box-shadow: rgba(0, 0, 0, 0.1) ;
+    display: flex;
+    max-width: 266px;
+    flex-direction: column;
+    font-family: Asul, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    
+    
+  }
+  .innerContainer {
+    border-radius: 12px;
+    background-color: rgba(255, 255, 254, 1);
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 40px;
+  }
+  .productTitle {
+    color: rgba(0, 0, 0, 1);
+    font-size: 24px;
+  }
+  .addButton {
+    border-radius: 12px;
+    background-color: rgba(58, 156, 43, 0.33);
+    margin-top: 22px;
+    font-size: 16px;
+    color: rgba(34, 76, 26, 1);
+    padding: 6px 34px;
+    cursor: pointer;
+    border: none;
+  }
+  .visuallyHidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
