@@ -8,6 +8,7 @@ import LoginPage from "./Pages/LoginPage/LoginPage";
 import { CartProvider } from "./Context/CartContext";
 import { EnrollmentProvider } from "./Context/EnrollmentContext";
 import AboutUs from "./Pages/AboutUs/AboutUs";
+import Inventory from "./Pages/Inventory/Inventory";
 
 
 const AppRouter = () => {
@@ -23,6 +24,7 @@ const AppRouter = () => {
             <Route path="/cart" element={<Cart />} />
             <Route path="/courses" element={<Course />} />
             <Route path="/about" element={<AboutUs />} />
+            <Route path="/inventory" element={<Inventory/>}/>
           </Routes>
         </Router>
       </CartProvider>
