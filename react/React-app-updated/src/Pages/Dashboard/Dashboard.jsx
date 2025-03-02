@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "./Components/Header/Header";
-import SideNavigation from "./Components/SideNavigation/SideNavigation";
+import Header from "../../Components/Header/Header";
+import SideNavigation from "../../Components/SideNavigation/SideNavigation";
 import './Dashboard.css';
 
 const profileData = [

@@ -1,6 +1,5 @@
 import React  from 'react';
 import { Button } from '../Button/Button';
-import { SocialLogin } from '../SocialLogin/SocialLogin';
 import './Login.css'; 
 
 export const Login = () => {
@@ -26,13 +25,7 @@ export const Login = () => {
         />
       </div>
 
-      <Button variant="primary">Log in</Button>
-      
-      <div className="forgotCredentials">
-        <a href="#" className="forgotLink">Forgot username or password?</a>
-      </div>
-
-        <SocialLogin/>      
+      <Button variant="primary">Log in</Button>     
       
       <div className="divider">or</div>
       

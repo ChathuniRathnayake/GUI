@@ -1,6 +1,6 @@
 import React from "react";
-import { Login } from "./Components/Login/Login";
-import './LoginPage.css'; // Import the standard CSS file
+import { Login } from "../../Components/Login/Login";
+import './LoginPage.css'; 
 
 export const LoginPage = () => {
   return (
