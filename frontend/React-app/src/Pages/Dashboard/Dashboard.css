@@ -121,6 +121,8 @@
   padding: 2rem;
   border-radius: 20px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  width: 900px;
+  justify-self: center;
 }
 
 .alldetails {
@@ -153,7 +155,7 @@
 .profile-item {
   display: flex;
   margin-bottom: 1rem;
-  font-size: 1.1rem;
+  font-size: 16px;
 }
 
 .profile-label {
