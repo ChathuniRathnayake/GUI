@@ -4,6 +4,9 @@ import { FaEye, FaEyeSlash } from 'react-icons/fa';
 import './LoginPage.css';
 
 export default function LoginPage() {
+  const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
+  const [errorMessage, setErrorMessage] = useState("");
   const navigate = useNavigate();
   const [showPassword, setShowPassword] = useState(false);
   const [formData, setFormData] = useState({
@@ -21,7 +24,17 @@ export default function LoginPage() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    navigate('/');
+    if (username === "chathuni" && password === "1234"){
+      navigate('/');
+    }
+    
+    else if (username ==="admin" && password === "1234"){
+      navigate('/inventory');
+    }
+
+    setErrorMessage("Username and password are required.");
+    return;
+
   };
 
   return (
@@ -38,9 +51,10 @@ export default function LoginPage() {
                   name="username"
                   className="inputField"
                   placeholder="Username"
-                  value={formData.username}
-                  onChange={handleChange}
+                  value={username}
+                  onChange={(e) => setUsername(e.target.value)}
                   required
+                  aria-required="true"
                 />
               </div>
 
@@ -51,9 +65,10 @@ export default function LoginPage() {
                     name="password"
                     className="inputField"
                     placeholder="Password"
-                    value={formData.password}
-                    onChange={handleChange}
-                    required
+                    value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  required
+                  aria-required="true"
                   />
                   <button
                     type="button"

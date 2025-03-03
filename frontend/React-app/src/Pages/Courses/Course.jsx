@@ -7,7 +7,7 @@ import { useCart } from "../../Context/CartContext";
 import "./Course.css";
 
 export default function Course() {
-    const { addToCart } = useCart();
+    const { onAddToCart } = useCart();
     const [courses, setCourses] = useState([]);
 
     // Fetch courses from inventory
@@ -38,7 +38,7 @@ export default function Course() {
                                 <ProductCard
                                     key={course.id}
                                     course={course}
-                                    addToCart={addToCart}
+                                    onAddToCart={onAddToCart}
                                 />
                             ))
                         ) : (

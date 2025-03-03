@@ -14,7 +14,7 @@ export default function Cart() {
   const handleEnroll = (course) => {
     enrollInCourse(course);
     removeFromCart(course);
-    toast.success(`🎉 Successfully enrolled in ${course.title}! Happy Learning ! `, {
+    toast.success(`🎉 Successfully enrolled in ${course.name}! Happy Learning ! `, {
       position: "top-right",
       autoClose: 3000,
       hideProgressBar: false,
@@ -41,13 +41,13 @@ export default function Cart() {
         <div className="cartContent">
           <h2>Shopping Cart ({cartItems.length} items)</h2>
           <div className="cartItems">
-            {cartItems.map((item, index) => (
-              <div key={index} className="cartItem">
-                <img src={item.image} alt={item.title} />
+            {cartItems.map((item) => (
+              <div key={item.id} className="cartItem">
+                <img src={item.image_url} alt={item.title} />
                 <div className="cartItemDetails">
                   <h3>{item.title}</h3>
                   <p>{item.description}</p>
-                  <p className="price">{item.price}</p>
+                  <p className="price">${item.price}</p>
                   <div className="cartItemButtons">
                     <button
                       className="enrollButton"
