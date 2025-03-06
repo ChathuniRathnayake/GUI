@@ -2570,11 +2570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\DesktopApp\\Elevated WPF\\Elevated WPF\\Elevated WPF.csproj",
+      "projectUniqueName": "D:\\GitHub\\GUI\\DesktopApp\\Elevated WPF\\Elevated WPF\\Elevated WPF.csproj",
       "projectName": "Elevated WPF",
-      "projectPath": "D:\\GitHub\\DesktopApp\\Elevated WPF\\Elevated WPF\\Elevated WPF.csproj",
+      "projectPath": "D:\\GitHub\\GUI\\DesktopApp\\Elevated WPF\\Elevated WPF\\Elevated WPF.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\DesktopApp\\Elevated WPF\\Elevated WPF\\obj\\",
+      "outputPath": "D:\\GitHub\\GUI\\DesktopApp\\Elevated WPF\\Elevated WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

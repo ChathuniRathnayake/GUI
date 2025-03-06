@@ -252,3 +252,132 @@ D:\GitHub\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated
 D:\GitHub\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\ref\Elevated WPF.dll
 D:\GitHub\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\CourseInfoWindow.g.cs
 D:\GitHub\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\CourseInfoWindow.baml
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Elevated WPF.exe
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Elevated WPF.deps.json
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Elevated WPF.runtimeconfig.json
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Elevated WPF.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Elevated WPF.pdb
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Humanizer.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.csproj.AssemblyReference.cache
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\CourseInfoWindow.g.cs
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\App.g.cs
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF_MarkupCompile.cache
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF_MarkupCompile.lref
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\CourseInfoWindow.baml
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\MainWindow.baml
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.g.resources
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.AssemblyInfoInputs.cache
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.AssemblyInfo.cs
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.csproj.CoreCompileInputs.cache
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.sourcelink.json
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated.A05DEB59.Up2Date
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\refint\Elevated WPF.dll
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.pdb
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\Elevated WPF.genruntimeconfig.cache
+D:\GitHub\GUI\DesktopApp\Elevated WPF\Elevated WPF\obj\Debug\net8.0-windows\ref\Elevated WPF.dll

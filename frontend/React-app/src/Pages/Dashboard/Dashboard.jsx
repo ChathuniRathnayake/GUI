@@ -99,7 +99,7 @@ export default function Dashboard() {
               <div className="enrolledCoursesGrid">
                 {enrolledCourses.map((course, index) => (
                   <div key={index} className="enrolledCourse">
-                    <img src={course.image} alt={course.title} />
+                    <img src={course.image_url} alt={course.title} />
                     <h3>{course.title}</h3>
                     <p>{course.description}</p>
                     <button className="startLearningBtn">Start Learning</button>

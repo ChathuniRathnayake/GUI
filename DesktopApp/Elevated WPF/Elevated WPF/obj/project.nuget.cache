@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C+MvMCkWRcI=",
+  "dgSpecHash": "9GJ3H7+LEkU=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\DesktopApp\\Elevated WPF\\Elevated WPF\\Elevated WPF.csproj",
+  "projectFilePath": "D:\\GitHub\\GUI\\DesktopApp\\Elevated WPF\\Elevated WPF\\Elevated WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
