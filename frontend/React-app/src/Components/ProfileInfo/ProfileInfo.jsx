@@ -1,5 +1,5 @@
 import React from 'react';
-import './ProfileInfo.css'; // Import the standard CSS file
+import './ProfileInfo.css'; 
 
 export const ProfileInfo = ({ label, value }) => {
   return (
