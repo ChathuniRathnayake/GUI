@@ -1,0 +1,65 @@
+﻿<Window x:Class="Elevated_WPF.CourseInfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elevated_WPF"
+        mc:Ignorable="d"
+        Title="CourseInfoWindow" Height="450" Width="800">
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Course Name" Grid.Row="0"
+                   FontSize="20" 
+                   Padding="10" 
+                   Margin="10"></TextBlock>
+        
+        <TextBox Grid.Row="1"
+                 Width="500"
+                 Height="45"
+                 Background="Beige"
+                 x:Name="CourseNameTextBox"></TextBox>
+
+        <TextBlock Text="Course Price"
+                   Grid.Row="2"
+                   FontSize="20"
+                   Padding="10"
+                   Margin="10"></TextBlock>
+
+        <TextBox Grid.Row="3"
+                 Width="500"
+                 Height="45"
+                 Background="Beige"
+                 x:Name="PriceTextBox"></TextBox>
+        <StackPanel Grid.Row="4"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    >
+            <Button Width="150"
+                    Height="50"
+                    FontSize="20"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    Background="CornflowerBlue"
+                    Margin="0,0,5,0"
+                    Click="Save_Info">Save</Button>
+
+            <Button Width="150"
+                    Height="50"
+                    FontSize="20"
+                    FontWeight="Bold"
+                    Background="AliceBlue"
+                    Margin="5,0,0,0"
+                    Click="Cancel_Info"
+                    >Cancel</Button>
+        </StackPanel>
+
+    </Grid>
+</Window>
